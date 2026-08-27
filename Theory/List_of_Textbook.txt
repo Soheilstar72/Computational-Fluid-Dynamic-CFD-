@@ -1,0 +1,28 @@
+1.Hoffmann, Klaus A., and Steve T. Chiang. "Computational fluid dynamics volume I." Engineering education system 4 (2000).
+
+https://d1wqtxts1xzle7.cloudfront.net/58904587/Computational_Fluid_Dynamics_Vol.I_-_Hoffmann.pdf?1738382694=&response-content-disposition=inline%3B+filename%3DComputational_Fluid_Dynamics_Vol_I_Hoffm.pdf&Expires=1787839945&Signature=MVPhWhSFO8eX-p5xDzekRehNGWd4NOkYoLoLXflcrElJIsI2Czlgxbg4lFwcvsKSqCV8xQ7FIP~7rjczfiXhTle--hrMymXKU~Q-6tZaOowVNTfIYWrBWcyactgaRJSUyc-k5DabOPvqKtssL4v4mSypyjf-zc2enyuItIp9pt7Qk2gKlKbBF2nECuU8fQ3Nyz-XwPgTiQsAFC85liYFLjrvMz3t0XGJ1WfVERoU9hoZIZY~SEyOh9RnVfFfafi~dQi6h7YkteVQtlDXYxV5uV1IgF~y6KsULs5QbI~eX8K0roPngsbvTaiPXSoNNJSPL-uqOMYewLVvCOFxAwAaiA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+
+2.Hoffmann, Klaus A., and Steve T. Chiang. "Computational fluid dynamics volume II." Engineering education system 4 (2000).
+
+https://www.scribd.com/doc/101139904/CFD-by-Hoffman-Vol-2-4th-Edition
+
+
+3.Hoffmann, Klaus A., and Steve T. Chiang. "Computational fluid dynamics volume III." Engineering education system 4 (2000).
+
+https://elmoukrie.com/wp-content/uploads/2022/05/klaus-a.-hoffmann-steve-t.-chiang-computational-fluid-dynamics.-volume-3-engineering-education-system-2000.pdf
+
+
+4.McLay, A. "Computational FluidDynamics: the Basics with Applications, JD Anderson, McGraw-Hill Book CompanyEurope, McGraw-Hill House, Shoppenhangers Road, Maidenhead, Berkshire SL6 2QL. 1995. 547pp. Illustrated.£ 23.95." The Aeronautical Journal 100.998 (1996): 365-365.
+
+https://www.cambridge.org/core/journals/aeronautical-journal/article/abs/computational-fluiddynamics-the-basics-with-applicationsjd-andersonmcgrawhill-book-companyeurope-mcgrawhill-houseshoppenhangers-road-maidenheadberkshire-sl6-2ql1995-547ppillustrated-2395/B0B8D82316EEFABA83808E517D4151BE
+
+
+5.Versteeg, Henk Kaarle, and Weeratunge Malalasekera. "An introduction to computational fluid dynamics." (1995).
+
+https://www.scribd.com/doc/8650266/Versteeg-H-K-Malalasekera-W-Introduction-to-Computational-Fluid-Dynamics-the-Finite-Volume-Meth
+
+
+6.Patankar, Suhas. Numerical heat transfer and fluid flow. Taylor & Francis, 2018.
+
+https://books.google.it/books?hl=en&lr=lang_en&id=Y2G1DwAAQBAJ&oi=fnd&pg=PP1&dq=Computational+Fluid+Dynamics+Numerical+Heat+Transfer+and+Fluid+Flow+Couverture+Suhas+Patankar&ots=7UMacUy5WH&sig=2Drm3WfhB51NhbfVybe3dg_8WHU&redir_esc=y#v=onepage&q&f=false
